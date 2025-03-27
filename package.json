@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "Mohammed's Portfolio",
   "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "description": "Personal Portfolio to display my creations.",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
@@ -14,19 +14,20 @@
   "dependencies": {
     "gatsby": "^5.0.1",
     "gatsby-theme-portfolio-minimal": "latest",
+    "gatsby-transformer-remark": "^6.14.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "author": "Konstantin Münster <mail@konstantin.digital>",
+  "author": "Mohammed Chauhan <mohammedzchauhan@gmail.com>",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
+  "starter-name": "Mohammed's Portfolio",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
+    "url": ""
   },
   "keywords": [
     "react",

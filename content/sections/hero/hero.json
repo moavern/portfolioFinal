@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "Hi",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,15 +8,17 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Mohammed Chauhan",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "This is my portfolio "
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I like building cool things using programming and hardware & sharing my creations online.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
+  },
+  "myPic": {
+    "src": "/images/IMG_7522.jpeg",
+    "alt": "My Picture"
   }
 }
